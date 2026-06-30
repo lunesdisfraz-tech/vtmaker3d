@@ -1,41 +1,58 @@
 # vtmaker3d
 Transformamos ideias em realidade com impressão 3D de alta qualidade. Produzimos peças personalizadas, decorativas e funcionais com precisão, excelente acabamento e materiais de qualidade. Criamos soluções sob medida para projetos, presentes, organização e muito mais.
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/woodex)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/woodex?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/woodex?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/NK8Cif0dAoM?style=social)](https://youtu.be/NK8Cif0dAoM)
 
-<title>VT Maker</title>
+  <br />
+  <br />
 
-<link rel="stylesheet" href="css/style.css">
-</head>
+  <h2 align="center">Woodex - Furniture eCommerce Website</h2>
 
-<body>
+  Woodex is a fully responsive furniture ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-<header>
+  <a href="https://codewithsadee.github.io/woodex/"><strong>➥ Live Demo</strong></a>
 
-<h1>VT MAKER</h1>
+</div>
 
-</header>
+<br />
 
-<section class="home">
+### Demo Screeshots
 
-<img src="img/logo.png" class="logo">
+![Woodex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-<h2>Impressão 3D Premium</h2>
+### Prerequisites
 
-<p>
-Transformando ideias em realidade através da impressão 3D.
-</p>
+Before you begin, ensure you have met the following requirements:
 
-<a href="#indice" class="botao">
-Entrar
-</a>
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-</section>
+### Run Locally
 
-<script src="js/script.js"></script>
+To run **Woodex** locally, run this command on your git bash:
 
-</body>
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/codewithsadee/woodex.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/codewithsadee/woodex.git
+```
+
+### Contact
+
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+### License
+
+This project is **free to use** and does not contains any license.
+
 </html>
